@@ -6,9 +6,15 @@ a:hover {
   background-color: red;
 }
 
-img:hover {
-  border: 5px solid red;
+img {
   opacity: 1;
+  filter: alpha(opacity=40);
+}
+
+img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
+  border: 5px solid red;
 }
 
 /* FIRST BOX */
@@ -203,9 +209,3 @@ footer {
   padding: auto;
 }
 /* LAST BOX */
-
-@media only screen and (max-width: 600px) {
-  .flex-child {
-    width: 100%;
-  }
-}

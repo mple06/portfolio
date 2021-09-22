@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/90426657/134296165-f569f21c-3205-4ec5-80ab-2ad765e03088.png)
 
 
-- [Live](hhttps://mple06.github.io/portfolio/)
+- [Live](https://mple06.github.io/portfolio/)

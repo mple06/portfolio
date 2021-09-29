@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio</h1>
 
-<p align="center">This is first site I ever created and although it looks a little basic, I'm proud it. Please feel free look around.</p>
+<p align="center">This is first site I ever created and although it looks a little basic, I'm proud of it. Please feel free look around.</p>
 
 ## Links
 
